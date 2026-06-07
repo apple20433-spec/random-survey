@@ -8,7 +8,12 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://www.enterspace.tw/cone',
+	'https://www.enterspace.tw/killers-dilemma',
+	'https://www.enterspace.tw/victoria',
+	'https://www.enterspace.tw/thetagalong',
+	'https://www.enterspace.tw/shakespeare',
+	'https://www.enterspace.tw/hyakkiyagyo',
+	'https://www.enterspace.tw/gong-xi-fa-cai-lets-battle',
+	'https://www.enterspace.tw/straightfromthemarket',
 ];
